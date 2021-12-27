@@ -14,10 +14,13 @@ In this project, I aim to track why a model is adequate for given datasets and t
 ## Datasets
 
 - Vision: MNIST
+http://yann.lecun.com/exdb/mnist/
 
 - NLP: IMDB review dataset
+https://ai.stanford.edu/~amaas/data/sentiment/
 
 - Audio and speech: FSDD
+https://github.com/Jakobovski/free-spoken-digit-dataset
 
 ## Machine Learning Models
 
